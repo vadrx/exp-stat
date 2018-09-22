@@ -5,13 +5,16 @@ Processing of experimental computer data. Qt5 program.
 ***
 
 <h2> Requirements: </h2>
-# Qt5 with QtCharts
 
-***
+```
+Qt5 with QtCharts
+```
 
-<h2> Installation: </h2>
+<h2> Running: </h2>
+
 ```
 git clone https://github.com/vadrx/exp-stat
 cd exp-stat
 qtcreator exp-stat.pro
 ```
+Build project and run it.
